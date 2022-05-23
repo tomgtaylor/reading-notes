@@ -2,6 +2,14 @@
 ### This heading uses "###"
 ###### This heading uses "######"
 
+~~This text is stikethroughed using~~ 
+
+1. This is an ordered list #1 (ol)
+2. This is an ordered list #2
+- This is an unordered list #1 (ul)
+- This is an unordered list #2 
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tomgtaylor/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
