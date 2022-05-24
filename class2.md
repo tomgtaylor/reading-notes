@@ -1,4 +1,3 @@
-
 # Command Line Interface (CLI)
 ---
 The CLI, or Command Line Interface, enables one to interact with the computer using commands rather than using a mouse. This option allws one to peruse through directories, files, make and delete files, and more. The examples of commands often used are below:
@@ -10,7 +9,7 @@ The CLI, or Command Line Interface, enables one to interact with the computer us
 - **ls -1**:	list is more detailed.<br>
 ---
 
-There are also Directories and pathes one can use. Some examples below:
+There are also important concepts covered in this class. Some examples below:
 
 root directory:		denoted by a single slash (/). 
 Relative path:  A file or directory location relative to where we currently are in the file system.
@@ -24,3 +23,4 @@ There's a number of text editors out there to select from.
 2.  Notepad
 3.  Atom
 4.  Sublimetext
+[Views Class2 Webpage](https://tomgtaylor.github.io/reading-notes/class2)
