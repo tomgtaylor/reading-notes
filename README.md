@@ -8,7 +8,7 @@
 3. Learn to accept constructive feedback.
 4. Learn to give constructive feedback.
 
-In the words of Steve Jobs, 
+**In the words of Steve Jobs**, 
 > Learn continually - there's *always* "one more thing" to learn!
 
 ---
