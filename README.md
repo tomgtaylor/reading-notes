@@ -15,9 +15,9 @@ In the words of Steve Jobs,
 
 # Examples of features of Markup:
 
-- ~~Strikethrough~~ feature uses the 2x tilda key before and after the text.
--  -[ ] The task feature uses a hyphen and two bracket boxes.
--  One can highlight text using 2x equal sign before and after text.
+- Strikethrough feature uses ~~the 2x tilda key before and after the text.~~
+- [ ] The task feature uses a hyphen and two bracket boxes.
+-  One can highlight text using ```3x backticks before and after the text.```
 
 A bit about myself:
 
