@@ -1,5 +1,9 @@
-# **Growth Mindset: What is it?**
+# **Reading Journal 102**
+
 ---
+
+# Growth Mindset: What is it?
+
 ### Growth mindset refers to the perception that one can improve their ability via hard work and effort.
 
 ### There are a few ways one can keep a growth mindset:
@@ -13,17 +17,14 @@
 
 ---
 
-# Examples of features of Markup:
-
-- Strikethrough feature uses ~~the 2x tilda key before and after the text.~~
-- [ ] The task feature uses a hyphen and two bracket boxes.
--  One can highlight text using ```3x backticks before and after the text.```
-
 A bit about myself:
 
-1. I live in Spokane.
-2. Prior to this, I pursued a career in the psychiatric field until the lay offs.
+1. I live in Spokane, WA. Grew up in Bellingham.
+2. Prior to this, I pursued a career in the psychiatric field until the lay offs happened.
 3. My life consisted of spending a fair amount of time in Asia, in China, Taiwa, Nepal, and elsewhere.
-4. I love a good challenge.
+4. I joined Code Fellows to kickstart my entry into the coding world. 
 
-  [Link to my Github Page](https://github.com/tomgtaylor)
+Email: tomgtaylor@yahoo.com
+Phone: (509) 828-2843
+
+# Reading notes
