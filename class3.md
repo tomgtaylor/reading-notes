@@ -32,21 +32,21 @@ An inherent Git tool called git config allows the setting of configuration varia
 After installing Git, users should immediately set the user name and email address, which will be used for every Git commit.
 Type the following into Terminal or Command Line:
 
-  git config --global user.name "Jane Smith"
+    git config --global user.name "Jane Smith"
 
-  git config --global user.email "example@email.com"
+    git config --global user.email "example@email.com"
   
 To confirm that you have the correct settings, enter the following command:
 
-  git config --global user.name (should return Jane Smith)
+    git config --global user.name (should return Jane Smith)
 
-  git config --global user.email (should return example@email.com)
+    git config --global user.email (should return example@email.com)
   
 - Default Text Editor
-- 
+
 Without configuration of a default text editor, Git will use the system’s default editor–most likely Vim. To configure a different text editor, such as Emacs, type the following into your Terminal or Command Line:
 
-  $ git config --global core.editor emacs
+    $ git config --global core.editor emacs
 
 *Note: For some editors, you may need to find specific instructions for default configuration.*
 
