@@ -42,3 +42,11 @@ To confirm that you have the correct settings, enter the following command:
 
   git config --global user.email (should return example@email.com)
   
+- Default Text Editor
+- 
+Without configuration of a default text editor, Git will use the system’s default editor–most likely Vim. To configure a different text editor, such as Emacs, type the following into your Terminal or Command Line:
+
+  $ git config --global core.editor emacs
+
+*Note: For some editors, you may need to find specific instructions for default configuration.*
+
