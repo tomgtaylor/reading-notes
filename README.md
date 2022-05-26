@@ -14,10 +14,10 @@ Growth mindset refers to the perception that one can improve their ability via h
 
 There are a few ways one can keep a growth mindset
 
-1. Embrace challenges.
-2. Use mistakes as a learning opportunity.
-3. Learn to accept constructive feedback.
-4. Learn to give constructive feedback.
+    1. Embrace challenges.
+    2. Use mistakes as a learning opportunity.
+    3. Learn to accept constructive feedback.
+    4. Learn to give constructive feedback.
 
 **In the words of Steve Jobs:**,
 > Learn continually - there's *always* "one more thing" to learn!
@@ -26,15 +26,16 @@ There are a few ways one can keep a growth mindset
 
 A bit about myself:
 
-1. I live in Spokane, WA. Grew up in Bellingham.
-2. Prior to this, I pursued a career in the psychiatric field until the lay offs happened.
-3. My life consisted of spending a fair amount of time in Asia, in China, Taiwa, Nepal, and elsewhere.
-4. I joined Code Fellows to kickstart my entry into the coding world. 
+    1. I live in Spokane, WA. Grew up in Bellingham.
+    2. My prior career was in the psychiatric field until lay offs happened.
+    3. I spent a fair amount of time living in Asia.
+    4. I joined Code Fellows to kickstart my entry into the coding world. 
 
-Email: tomgtaylor@yahoo.com
-Phone: (509) 828-2843
+    Email: tomgtaylor@yahoo.com
+    Phone: (509) 828-2843
 
 # Reading Notes: Table of Contents
+
 - [Class 2](https://tomgtaylor.github.io/reading-notes/class2) 
 
 - [Class 3](https://tomgtaylor.github.io/reading-notes/class3) 
@@ -44,3 +45,7 @@ Phone: (509) 828-2843
 - [Class 5](https://tomgtaylor.github.io/reading-notes/class5)
 
 - [Class 6](https://tomgtaylor.github.io/reading-notes/class6)
+
+- [Class 7](https://tomgtaylor.github.io/reading-notes/class7)
+
+- [Class 8](https://tomgtaylor.github.io/reading-notes/class8)
