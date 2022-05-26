@@ -17,5 +17,3 @@ This wirefram enables users to create a design layout/diagram and plan for a web
 5.Add detail and test
 
 6.Turn wireframe into prototype
-
-

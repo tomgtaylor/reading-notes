@@ -6,13 +6,20 @@
 
 ### Growth mindset refers to the perception that one can improve their ability via hard work and effort.
 
-### There are a few ways one can keep a growth mindset:
+# Growth Mindset: What is it?
+
+---
+
+Growth mindset refers to the perception that one can improve their ability via hard work and effort
+
+There are a few ways one can keep a growth mindset
+
 1. Embrace challenges.
 2. Use mistakes as a learning opportunity.
 3. Learn to accept constructive feedback.
 4. Learn to give constructive feedback.
 
-**In the words of Steve Jobs:**, 
+**In the words of Steve Jobs:**,
 > Learn continually - there's *always* "one more thing" to learn!
 
 ---
