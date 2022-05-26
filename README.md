@@ -35,7 +35,12 @@ Email: tomgtaylor@yahoo.com
 Phone: (509) 828-2843
 
 # Reading Notes: Table of Contents
-[Class 2](https://tomgtaylor.github.io/reading-notes/class2)
-[Class 3](https://tomgtaylor.github.io/reading-notes/class3) 
-[Class 4](https://tomgtaylor.github.io/reading-notes/class4) 
-[Class 5](https://tomgtaylor.github.io/reading-notes/class5)
+- [Class 2](https://tomgtaylor.github.io/reading-notes/class2) 
+
+- [Class 3](https://tomgtaylor.github.io/reading-notes/class3) 
+
+- [Class 4](https://tomgtaylor.github.io/reading-notes/class4) 
+
+- [Class 5](https://tomgtaylor.github.io/reading-notes/class5)
+
+- [Class 6](https://tomgtaylor.github.io/reading-notes/class6)
