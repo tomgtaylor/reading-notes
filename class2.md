@@ -25,4 +25,4 @@ There's a number of text editors out there to select from.
 2. Notepad
 3. Atom
 4. Sublimetext
-[Views Class2 Webpage](https://tomgtaylor.github.io/reading-notes/class2)
+[Back to Reading Notes](https://tomgtaylor.github.io/reading-notes)

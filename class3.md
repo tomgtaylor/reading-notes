@@ -50,3 +50,4 @@ Without configuration of a default text editor, Git will use the system’s defa
 
 *Note: For some editors, you may need to find specific instructions for default configuration.*
 
+[Back to Reading Notes](https://tomgtaylor.github.io/reading-notes)

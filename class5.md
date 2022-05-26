@@ -28,4 +28,4 @@ We then have a set of curly braces { }.
 
 CSS Rule: *External < Internal < Inline*
 
----
+[Back to Reading Notes](https://tomgtaylor.github.io/reading-notes)
